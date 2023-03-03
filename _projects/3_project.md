@@ -1,27 +1,33 @@
 ---
 layout: page
-title: Role of anisotropy in fragile and shear jammed states in suspensions
+title: Urban scaling in Indonesian cities
 description:
-img: assets/img/osc1.png
+img: assets/img/scaling2.png
 importance: 2
-category: main
+category: fun
 ---
 
-
-How can we define the fragile state in dense suspensions? By performing an oscillatory shear simulation, we found that the anisotropy of the stress tensor plays an important role.
+Urban scaling analysis has shown that various aggregated urban quantities obey power-law relationships with the population size. By classifying Indonesian cities based on the GDP microstructure in two dimensions (heterogeneity and spatial dispersion) and examining the scaling exponents of each class, we discover a non-trivial relation between scaling behavior and the GDP microstructure.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/osc1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/scaling1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/osc2.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/scaling2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-  Left: Oscillatory shear simulation and jamming phase diagram. Right: Anisotropy of the stress tensor
+  Left: Indonesian cities in the plane of Gini index and spatial dispersions. Right: 4 Classes of Indonesian cities based on the microstructure
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/scaling3.png" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Scaling exponents for each microstructure class
+</div>
 
-
-Under collaboration with Hisao Hayakawa.
+Under collaboration with Genta Kuno
