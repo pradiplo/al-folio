@@ -177,9 +177,8 @@ jekyll-archives:
 # -----------------------------------------------------------------------------
 
 scholar:
-
-  last_name: Pradipto
-  first_name: [ ]
+  last_name: [ ]
+  first_name: [Pradipto]
 
   style: american-physics-society
   locale: en
@@ -200,7 +199,6 @@ scholar:
   details_link: Details
 
   query: "@*"
-
 
 # -----------------------------------------------------------------------------
 # Responsive WebP Images
