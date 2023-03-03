@@ -198,6 +198,8 @@ scholar:
   details_dir: bibliography
   details_layout: bibtex.html
   details_link: Details
+  bibtex_options:
+    parse_names: false
 
   query: "@*"
 
